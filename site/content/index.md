@@ -15,12 +15,12 @@ Anna is a lightning fast static site generator written in Go, designed for simpl
 <script>
 const urls = [
   "https://adhesh.netlify.app",
-  "https://sameermanvi.me",
   "https://adihegde.com",
   "https://hsp-ec.xyz",
   "https://anirudhsudhir.com",
   "https://polarhive.net",
-  "https://prawns.dev"
+  "https://prawns.dev",
+  "https://sameermanvi.me"
 ];
 
 const gallery = document.getElementById('embed-gallery');
